@@ -118,3 +118,4 @@ This project is intentionally simple, but there's a lot of room to expand:
 ---
 
 ## 📌 Contract Info
+ID smartcontract = CCXD4YI4B2NZGP2FQMYTRG7NXQRQ647S4TR4ICUW3PHMVCBEWTMECAN5
