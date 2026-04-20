@@ -1,6 +1,6 @@
-# Stellar Notes DApp
+# Stellar Sosmed
 
-A simple decentralized note-taking app built on Stellar using Soroban.
+A simple decentralized Sosmed app built on Stellar using Soroban.
 
 ---
 
